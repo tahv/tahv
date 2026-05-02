@@ -7,7 +7,7 @@ pipeline at Ubisoft.
 
 Some of my projects:
 
-- [**menuet**](https://github.com/tahv/menuet) –
+- [**menuet**](https://gitlab.com/tahv/menuet) –
   *Declarative menu builder for DCC applications*
 - [**hed**](https://github.com/tahv/hed) –
   *A command-line tool for extracting releases notes from changelog files*
@@ -17,6 +17,8 @@ Some of my projects:
   *Python library for creating Attributes in Autodesk Maya*
 - [**mayafbx**](https://github.com/tahv/mayafbx) –
   *Python API for exporting FBX from Autodesk Maya*
+- [**types-maya**](https://gitlab.com/tahv/types-maya) –
+  *External type annotations for Autodesk Maya Python API*
 
 More projects can be found on [GitHub](https://github.com/tahv?tab=repositories&type=source)
 and [GitLab](https://gitlab.com/users/tahv/projects).
