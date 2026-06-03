@@ -15,7 +15,7 @@ Some of my projects:
   *Perforce p4 command-line client Python wrapper*
 - [**attribs**](https://github.com/tahv/attribs) –
   *Python library for creating Attributes in Autodesk Maya*
-- [**mayafbx**](https://github.com/tahv/mayafbx) –
+- [**mayafbx**](https://gitlab.com/tahv/mayafbx) –
   *Python API for exporting FBX from Autodesk Maya*
 - [**types-maya**](https://gitlab.com/tahv/types-maya) –
   *External type annotations for Autodesk Maya Python API*
