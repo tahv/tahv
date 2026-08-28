@@ -21,8 +21,8 @@ Senior Pipeline Developer.
 | Annecy, France
 | *2021 – 2022*
 
-- Star Wars Outlaws
-- Tom Clancy's XDefiant
+- [Star Wars Outlaws](https://store.steampowered.com/app/2842040/)
+- [XDefiant](https://youtu.be/axDcjinoqo4)
 
 **Pipeline Technical Director at Framestore**
 | London, United Kingdom
@@ -36,8 +36,8 @@ Senior Pipeline Developer.
 | Annecy, France
 | *2016 – 2019*
 
-- Tom Clancy's The Division 2
-- Tom Clancy's The Division
+- [Tom Clancy's The Division 2](https://store.steampowered.com/app/2221490/)
+- [Tom Clancy's The Division](https://store.steampowered.com/app/365590/)
 
 ## Projects
 
