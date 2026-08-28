@@ -5,35 +5,36 @@ Senior Pipeline Developer.
 ## Experience
 
 **Senior Pipeline Developer at Ubisoft**
-*Annecy, France | 2023 – Present*
+| Annecy, France
+| *2023 – Present*
 
 - Art Pipeline developer for the
   [Snowdrop engine](https://www.massive.se/project/snowdrop-engine/).
-<!--
-- Developer and maintainer of a command-line application
-  for deploying the Digital Content Creation (DCC) applications
-  and pipeline tools to artists and technical artists.
-  The application install software packages such as Maya
-  or MotionBuilder on a workstation
-  and synchronize project requirements from various sources.
-  All declared in TOML configuration file.
--->
+- Developed and maintain a command-line application
+  automating the installation of DCC software
+  (Maya, Houdini, MotionBuilder, ...)
+  and the deployment/synchronization of project-specific packages
+  from various sources (Artifactory, PyPI, NuGet, ...),
+  configured declaratively via TOML files.
 
 **Senior Technical Animator at Ubisoft**
-*Annecy, France | 2021 – 2022*
+| Annecy, France
+| *2021 – 2022*
 
 - Star Wars Outlaws
 - Tom Clancy's XDefiant
 
 **Pipeline Technical Director at Framestore**
-*London, United Kingdom | 2020 – 2021*
+| London, United Kingdom
+| *2020 – 2021*
 
 - Pipeline developer on
   [Framestore Pre-production Services](https://www.framestore.com/film/fps),
   Unreal Engine, Maya, Nuke, Adobe After Effects, MotionBuilder...
 
 **Technical Animator, Rigger at Ubisoft**
-*Annecy, France | 2016 – 2019*
+| Annecy, France
+| *2016 – 2019*
 
 - Tom Clancy's The Division 2
 - Tom Clancy's The Division
@@ -60,18 +61,16 @@ and [GitLab](https://gitlab.com/users/tahv/projects).
 ## Education
 
 **ESMA École Supérieure Des Métiers Artistiques**
-*Montpellier, France | September 2012 – September 2016*
+| Montpellier, France
+| *2012 – 2016*
 
-- Title: 3D special effects project manager (Chef de projets 3D effets spéciaux)
-
-<!-- Title [RNCP26840](https://www.francecompetences.fr/recherche/rncp/26840/) – 3D special effects project manager (Chef de projets 3D effets spéciaux) -->
-<!-- Title [RNCP40876](https://www.francecompetences.fr/recherche/rncp/40876/) – Design and Production Expert – 3D Animation and Special Effects -->
+- Title [RNCP26840](https://www.francecompetences.fr/recherche/rncp/26840/) – 3D special effects project manager (Chef de projets 3D effets spéciaux)
 
 ## Skills
 
-- **Programming Languages**: Python, Rust, C#
+- **Programming Languages**: Python, Rust, C#, lua
 - **Tools**: Git, GitLab, Perforce, JIRA, vim, uv
-- **DCCs**: Maya, MotionBuilder, Blender, Unreal
+- **DCCs**: Maya, MotionBuilder, Blender, Unreal Engine, Qt/PySide
 
 ## Contact
 
