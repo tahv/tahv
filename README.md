@@ -1,4 +1,4 @@
-# Hi, there 👋
+# Hi there 👋
 
 My name is Thibaud,
 I am a Pipeline Developer working in the Video Game & VFX industry.
