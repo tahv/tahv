@@ -69,7 +69,7 @@ and [GitLab](https://gitlab.com/users/tahv/projects).
 ## Skills
 
 - **Programming Languages**: Python, Rust, C#, lua
-- **Tools**: Git, GitLab, Perforce, JIRA, vim, uv
+- **Tools**: Git, GitLab, Perforce, JIRA, vim, uv, pytest, CI/CD, Docker
 - **DCCs**: Maya, MotionBuilder, Blender, Unreal Engine, Qt/PySide
 
 ## Contact
