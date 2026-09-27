@@ -1,6 +1,5 @@
-# Hi there 👋
+# Bonjour ! 👋
 
-My name is Thibaud,
 I am a Pipeline Developer working in the Video Game & VFX industry.
 Right now I am working on the [Snowdrop](https://www.massive.se/project/snowdrop-engine/)
 pipeline at Ubisoft.
